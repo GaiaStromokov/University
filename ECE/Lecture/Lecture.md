@@ -3,10 +3,8 @@ style: primary
 label: Create Note
 action:
   type: createNote
-  folderPath: "MSE/Lecture"
+  folderPath: "ECE/Lecture"
   fileName: "Lecture"
   openNote: false
 ```
-
-
 
