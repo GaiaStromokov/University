@@ -3,7 +3,7 @@ style: primary
 label: Create Note
 action:
   type: createNote
-  folderPath: "DIFEQ/Lectures"
+  folderPath: "Calc 3/Lecture"
   fileName: "Lecture"
   openNote: false
 ```
