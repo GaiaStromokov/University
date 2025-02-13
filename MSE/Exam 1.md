@@ -40,6 +40,8 @@ ___
 ___
 # Chapter 6: Diffusion
 - Ficks first and Second law, derivation and applications
+	- Ficks first law at steady state
+	- Ficks second law (condition on 1 surface, distance is large, plane is thick)
 - Diffusion coefficient vs T
 - general solution for constant surface density
 - Dose
