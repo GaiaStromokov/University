@@ -1,0 +1,59 @@
+- Mechanical properties*
+	- Stress/Strain
+	- Modulus of elastisity, sheer modulus, poison's ratio
+	- yield strength, tensile strength
+	- plastic vrs elastic deformation
+	- ductility and resiliemce
+	- temperature and composition dependance
+	- You should be able too
+		- Determine modulus from a graph
+		- calculate force from stress/strain and vice versa
+		- compute change in length, area, volume
+		- convert true to engineering strain and vice versa
+		- compute ductility (%EL, $RA) and resiliance
+- Deformation
+	- Dislocations and their propogation
+	- slip systems (atomic planes)
+	- grain boundaries
+		- grain growth and recrystallization with temperature
+		- yield strength vs grain size
+	- solid solution and strain hardening (cold working)
+	- You should be able too
+		- compute grain size vs time given temperature
+		- compute yield strength from grain size
+		- find slip planes and systems, relate number of slip planes to ductility
+		- compute cold work or strain required for a given %CW or given yield strength
+- Failiure
+	- Ductile vrs brittle failiure
+	- stress concentration near cracks
+	- crack propogation and critical stress in brittle materials
+	- fracture toughness
+	- safety factors
+	- fatigue
+	- You should be able to
+			- Compute maximum stress at the tip of the crack
+			- compute critical stress
+			- relate fracture toughness to stress and crack size
+- Phase Diagrams*
+	- Components of a phase diagram, liquidus, solidus, solvus
+	- phases: definition of a phase, single vs two phases
+	- isotherm, tie line, the lever rule
+	- special points, eutectic and eutectoid transformations
+	- intermetallics
+	- iron-carbon diagram: pearlite, ferrite, austenite, cementite
+	- You should be able to:
+		- apply lever rule in a variety of situations
+		- draw and label phase diagrams and/or draw various transformations on them
+		- compute weight fractions and composition using the lever rule
+		- fend density of phases, convert weight fractions to volume fractions
+- Phase Transformations
+	- Kinetics: nucleation and growth
+	- Avrami equation and rate of transformation
+	- role of diffusion and temperature dependance of the rate
+	- isothermal transformation diagram
+	- you should be able to:
+		- predict microstructure of an iron-carbon alloy
+		- read a transformation diagram and draw isothermal transformation on it
+		- compute percent transformation or time to reach a certain percentage
+
+

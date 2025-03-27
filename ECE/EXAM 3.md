@@ -19,20 +19,14 @@ $C\implies \dfrac{1}{CS}$ $[\dfrac{1}{Gjw}]$
 $L \implies SL$ $[jwl]$
 Fourier: $s=jw$
 
-___
-## Voltage drops
-Foreward bias
-- positive too negative
-Reverse bias
-- negative too positive
-___
-## Resonant frequency
-Capacitors
-- P: $C_{t}=c_{1}+c_{2}$
-- S: $C_{t}=(\dfrac{1}{c_{1}}+\dfrac{1}{c_{2}})^-1$
-Inductors
-- P: $L_{t}=(\dfrac{1}{l_{1}}+\dfrac{1}{l_{2}})^-1$
-- S: $L_{t}=l_{1}+l_{2}$
+## Resonant frequency:
+$f_{0}=\dfrac{1}{2\pi \sqrt{L*C}}$
+- Capacitor:
+	- Series: $C_{t}=(\dfrac{1}{C_{1}}+\dfrac{1}{C_{2}})^{-1}$
+	- Parallel: $C_{t}=C_{1}+C_{2}$
+- Inductance
+	- Series: $L_{t}=L_{1}+L_{2}$
+	- Parallel: $L_{t}=(\dfrac{1}{L_{1}}+\dfrac{1}{L_{2}})^{-1}$
 
 
 
